@@ -4,6 +4,9 @@ The purpose of our project is to develop and implement a working Tic-Tac-Toe web
 
 Reactstrap, react router dom and react redux are used as external libraries.
 
+## About application
+Tic-tac-toe is a simple and fun two player game in which the players take turns putting X's or O's on a 3x3 grid. The first player to get 3 marks in a row (vertically, horizontally, or diagonally) wins the game, and the other loses the game.
+
 ## How to start?
 ### Prerequisites
 Make sure you have installed all of the following prerequisites on your development machine:
