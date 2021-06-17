@@ -1,0 +1,23 @@
+.container {
+    width: 400px;
+    max-width: 400px;
+    margin: 1rem;
+    padding: 2rem;
+    box-shadow: 0 0 40px rgb(0 0 0 / 20%);
+    border-radius: var(--border-radius);
+    background: #ffffff;
+  }
+  
+  .body {
+    padding: 10px;
+  }
+  
+  .box {
+    width: 400px;
+    max-width: 400px;
+    margin: auto;
+    padding: 2rem;
+    box-shadow: 0 0 40px rgb(0 0 0 / 20%);
+    border-radius: var(--border-radius);
+    background: #ffffff;
+  }

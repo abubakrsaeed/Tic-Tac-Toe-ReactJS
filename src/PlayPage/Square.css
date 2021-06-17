@@ -1,0 +1,44 @@
+.X {
+    color: #dc3545;
+}
+.O {
+    color: #0175a1;
+}
+
+.winner {
+    background: #00b82ad4;
+    color: white;
+    border: 0;
+}
+
+.winner label {
+    animation: heartbeat 1s infinite;
+}
+
+@keyframes heartbeat
+{
+  0%
+  {
+    transform: scale( .75 );
+  }
+  20%
+  {
+    transform: scale( 1 );
+  }
+  40%
+  {
+    transform: scale( .75 );
+  }
+  60%
+  {
+    transform: scale( 1 );
+  }
+  80%
+  {
+    transform: scale( .75 );
+  }
+  100%
+  {
+    transform: scale( .75 );
+  }
+}
